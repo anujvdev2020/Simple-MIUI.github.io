@@ -1,0 +1,41 @@
+body{
+	align-items: center;
+}
+.container{
+	margin: 10px
+
+	 auto;
+	background-color: black;
+	height: 500px;
+	width: 300px;
+}
+h5{
+	color: #207f49;
+}
+.header{
+	    padding: 15px 15px 0px 15px;
+}
+input-row{
+
+}
+
+#search{
+	    width: 100%;
+	    margin: 5px 2px;
+    padding: 2px 5px;
+    border-radius: 17px;
+    background-color: #141414;
+    color: #6c6c6c;
+}
+p{
+	color: #6c6c6c;
+}
+h4{
+	color: #d4d4d4;
+}
+span{
+		color: #6c6c6c;
+}
+.all-calls{
+	color: #6c6c6c;
+}
